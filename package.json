@@ -16,7 +16,7 @@
     "firebase": "^4.1.2",
     "js-yaml": "^3.8.4",
     "kisi-client": "^5.0.3",
-    "moment": "2.18.1",
+    "moment": ">=2.19.3",
     "moment-timezone": "0.5.13",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.0",
